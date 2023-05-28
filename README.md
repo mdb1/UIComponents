@@ -16,7 +16,8 @@ https://github.com/mdb1/UIComponents/assets/5333984/aa3be4fe-2b00-44a0-aa59-90ee
 https://github.com/mdb1/UIComponents/assets/5333984/25f20aa6-9d2e-445d-b7c3-c8e66608b050
 
 ## Carousel
-[CarouselView](https://mdb1.github.io/2023-01-04-new-app-components/#:~:text=A-,Carousel,-View%20(Paged%20TabBar)
+
+[CarouselView](https://mdb1.github.io/2023-01-04-new-app-components/#:~:text=A%20Carousel-,View,-(Paged%20TabBar)%20to)
 
 https://github.com/mdb1/UIComponents/assets/5333984/e2b27dde-ed9e-4280-8371-94802a12dd93
 
