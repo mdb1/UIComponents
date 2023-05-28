@@ -1,6 +1,6 @@
 # UIComponents
 
-Reusable UI Components built in SwiftUI for iOS/macOS usage.
+Reusable UI Components built in SwiftUI.
 
 ## Buttons
 [LoadingButton](https://mdb1.github.io/2023-01-04-new-app-components/#:~:text=Some%20examples%3A-,LoadingButton,-A%20button%20with)
@@ -14,6 +14,11 @@ https://github.com/mdb1/UIComponents/assets/5333984/aa3be4fe-2b00-44a0-aa59-90ee
 [CancelCircularButton](https://mdb1.github.io/2023-01-04-new-app-components/#:~:text=A-,circular,-button%20with%20a)
 
 https://github.com/mdb1/UIComponents/assets/5333984/25f20aa6-9d2e-445d-b7c3-c8e66608b050
+
+## Carousel
+[CarouselView](https://mdb1.github.io/2023-01-04-new-app-components/#:~:text=A-,Carousel,-View%20(Paged%20TabBar)
+
+https://github.com/mdb1/UIComponents/assets/5333984/e2b27dde-ed9e-4280-8371-94802a12dd93
 
 ## Constants
 [Spacing constants](https://mdb1.github.io/2022-12-24-new-app-constants/)
